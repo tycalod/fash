@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
 title = 'Gwada'
 theme = 'lugo'
+
+[params]
+  # "relatedtext" is the text that appears above the tag list at the bottom of pages.
+  #relatedtext = "Related:"
+  favicon = "/favicon.ico"
