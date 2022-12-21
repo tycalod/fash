@@ -5,6 +5,5 @@ draft: false
 cover:
     image: img/gwo-ka.jpg
     alt: 'This is a post image'
-    caption: 'This is a caption
 ---
 
